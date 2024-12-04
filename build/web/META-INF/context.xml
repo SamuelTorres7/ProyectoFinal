@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/ProyectoFinal">
+    <Resource name="jdbc/Agencia"
+        auth="Container"
+        type="javax.sql.DataSource"
+        maxActive="15"
+        maxIdle="3"
+        maxWait="500"
+        username="root"
+        password="admin"
+        driverClassName="com.mysql.cj.jdbc.Driver"
+        url="jdbc:mysql://localhost:3306/agencia?useSSL=false">
+    </Resource>
+</Context>

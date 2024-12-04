@@ -1,0 +1,30 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 1 dic 2024, 8:54:02 p.m.
+    Author     : edreh
+*/
+.container{
+    background: black;
+}
+#enc-clientes{
+    color: whitesmoke;
+}
+#welcome{
+    color: whitesmoke;
+}
+thead{
+    color: lavender;
+}
+td{
+    color: linen;
+}
+label{
+    color:#f6ffff;
+}
+.error{
+    color: red;
+}
+
